@@ -1,0 +1,56 @@
+header{
+    background-color: cadetblue;
+    color: aliceblue;
+    padding: 1rem 2rem;
+}
+header h1{
+    font-size: 3rem;
+    text-align: center ;
+}
+.cont {
+    width: 900px;
+    margin: 0 auto;
+}
+
+.tod {
+    width: 900px; 
+    margin: 0 auto; 
+}
+.im {
+    display: flex;
+
+}
+body{
+    margin: 0;
+    padding: 0;
+    background: url(imagenes/Captura\ de\ pantalla\ \(103\).png);   
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+}
+.contenedor{
+    width: 300px;
+    height: 300px;
+    position: fixed;
+    left: -23px;
+    top: 90px;
+}
+
+aside{
+    min-width: 30%;
+    margin: 40px 20px 20px 0;
+    height: 100%;
+    
+    padding: 20px;
+    border-radius: 3px;
+    position: sticky;
+    top: 0;
+}
+.idc-box {
+    
+    text-align: left; 
+    font-size: 0.7em; 
+    padding: 5px; 
+    background-color: #86c2ae; 
+    border-radius: 3px; 
+}
